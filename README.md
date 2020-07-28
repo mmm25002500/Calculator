@@ -10,9 +10,9 @@
 
 **Step 1.**``git clone https://github.com/mmm25002500/Calculator/   ``
 
-**Step 2.**打開Android-Studio
+**Step 2.** 打開Android-Studio
 
-**Step 3.**打開專案 Open Project
+**Step 3.** 打開專案 Open Project
 
 Step 4.Run
 
