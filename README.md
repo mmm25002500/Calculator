@@ -6,11 +6,9 @@
 
 # 截圖 ScreenShot
 <div>
-<img src = "img/Screenshot_1595944065.png" width = "230" />
-<img src = "img/Screenshot_1595944074.png" width = "230" />
-<img src = "img/Screenshot_1595944091.png" width = "230" />
-<img src = "img/Screenshot_1595944093.png" width = "230" />
+<img src = "img/Screenshot_1595944065.png" width = "230" /><img src = "img/Screenshot_1595944074.png" width = "230" /><img src = "img/Screenshot_1595944091.png" width = "230" /><img src = "img/Screenshot_1595944093.png" width = "230" /><img src = "img/Screenshot_1595944097.png" width = "230" />
 <div>
+點擊看大圖
 ## 如何編譯 How to Compile
 
 ### 編譯 Compile:
