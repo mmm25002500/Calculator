@@ -2,6 +2,8 @@
 
 這是一款使用Java寫的Android APP，可以使用許多功能，目前也正在維護中，也有在定時更新。
 
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+
 ## 如何編譯 How to Compile
 
 ### 編譯 Compile:
