@@ -5,11 +5,12 @@
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 # 截圖 ScreenShot
-[img](Screenshot_1595944065.png)
-[img1](Screenshot_1595944074.png)
-[img2](Screenshot_1595944091.png)
-[img3](Screenshot_1595944093.png)
-
+<div>
+<img src = "img/Screenshot_1595944065.png" width = "230" />
+<img src = "img/Screenshot_1595944074.png" width = "230" />
+<img src = "img/Screenshot_1595944091.png" width = "230" />
+<img src = "img/Screenshot_1595944093.png" width = "230" />
+<div>
 ## 如何編譯 How to Compile
 
 ### 編譯 Compile:
