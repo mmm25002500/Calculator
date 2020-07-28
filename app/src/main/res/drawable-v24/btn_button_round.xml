@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 按壓時 -->
+    <item android:state_pressed="true">
+        <!--rectangle 長方形 可以畫出直角形，圓角形，弧形等-->
+        <shape android:shape="rectangle">
+            <!--設定圓角，當設置的圓角半徑很大，就可變成弧形邊了-->
+            <corners android:radius="15dip" />
+            <!--邊框-->
+            <stroke android:width="1dip" android:color="#eb009e" />
+            <!--漸層顏色-->
+            <gradient android:angle="-90" android:startColor="#0099CC" android:endColor="#017DAB"  />
+        </shape>
+    </item>
+
+    <!-- 預設時 -->
+    <item android:color="@android:color/black">
+        <shape android:shape="rectangle"  >
+            <corners android:radius="15dip" />
+            <stroke android:width="1dip" android:color="#eb009e" />
+            <gradient android:angle="-90" android:startColor="#4bff33" android:endColor="#33f8ff"  />
+        </shape>
+    </item>
+
+</selector>
