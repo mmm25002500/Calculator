@@ -32,13 +32,13 @@ Step 4.Run
 
 ## 關於我們 About Us
 
-[Team Website](www.tershi.ml)
-[Team Facebook](https://www.facebook.com/shanling.team/)
-[XiaTerShi YouTube](https://www.youtube.com/channel/UCPdpFDFOp3sPbZhRkaQVaQA)
-[XiaTerShi FaceBook](https://www.facebook.com/Tershi25648)
-[Tershi MailServer](https://mail.tershi.ml)
-[Tershi Official WebSite](https://official.tershi.ml)
-[We The Security](https://security.tershi.ml)
-[Tershi Gitbook](https://gitbook.tershi.ml)
-以上關於因為域名為免費域(無法使用信用卡申請(未滿18)) 因此隨時會網域更換！
+[Team Website](www.tershi.ml) <br>
+[Team Facebook](https://www.facebook.com/shanling.team/) <br>
+[XiaTerShi YouTube](https://www.youtube.com/channel/UCPdpFDFOp3sPbZhRkaQVaQA) <br>
+[XiaTerShi FaceBook](https://www.facebook.com/Tershi25648) <br>
+[Tershi MailServer](https://mail.tershi.ml) <br>
+[Tershi Official WebSite](https://official.tershi.ml) <br>
+[We The Security](https://security.tershi.ml) <br>
+[Tershi Gitbook](https://gitbook.tershi.ml) <br>
+以上關於因為域名為免費域(無法使用信用卡申請(未滿18)) 因此隨時會網域更換！ <br>
 Licence:© Tershi 2020 All right reversed 此程式除了「關於」頁面不可重製及發布之外，其餘頁面及功能可進行重製發布。
